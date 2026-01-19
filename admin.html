@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Admin Dashboard</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Admin – PPT Control Panel</h1>
+
+<div class="card">
+  <input type="file" accept=".json" onchange="loadJSON(event)">
+  <button onclick="openLive()">Open Live Dashboard</button>
+</div>
+
+<div id="adminList"></div>
+
+<script src="admin.js"></script>
+</body>
+</html>

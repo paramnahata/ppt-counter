@@ -1,0 +1,8 @@
+{
+  "currentPPT": "AI in Healthcare",
+  "presentations": [
+    {"pptName":"AI in Healthcare","teamName":"Tech Titans","status":"Ongoing"},
+    {"pptName":"Blockchain","teamName":"Code Squad","status":"Upcoming"},
+    {"pptName":"Cyber Security","teamName":"Hackers","status":"Completed"}
+  ]
+}
